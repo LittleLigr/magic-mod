@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "magic:item/staff",
+    "particle": "magic:item/staff"
+  }
+}
